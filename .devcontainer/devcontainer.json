@@ -1,0 +1,5 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {0x18BfD74124D99238EB75f46f4b601b29A4d1537F
+  }
+}
